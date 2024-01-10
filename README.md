@@ -12,6 +12,9 @@ BookRecordsProcessor is a Java application developed for the COMP249 – Object-
 ## Installation
 To run this application, ensure you have Java installed on your system. Clone the repository, navigate to the source directory, and run the main Java file.
 
+## Documentation
+All classes and methods are documented using JavaDoc standards for easy understanding and maintenance.
+
 ## Contributing
 This project was developed as part of an academic assignment. While it is not open for contributions, feedback and suggestions are always welcome.
 
